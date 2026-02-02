@@ -1,0 +1,7 @@
+order_id,city,distance_km,price,status,order_date
+1,Dhaka,12,500,delivered,2024-01-01
+2,Dhaka,25,800,cancelled,2024-01-01
+3,Chattogram,40,1200,delivered,2024-01-02
+4,Dhaka,18,600,delivered,2024-01-02
+5,Sylhet,55,1500,pending,2024-01-03
+6,Dhaka,30,1000,delivered,2024-01-03
