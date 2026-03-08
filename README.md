@@ -12,3 +12,8 @@
 - Created tables using Python
 - Ran SQL queries to analyze order status distribution
 - Integrated SQL queries with Pandas
+- Extracted raw order data from CSV
+- Transformed data using Pandas (cleaning & preparation)
+- Loaded processed data into a SQLite database
+- Structured pipeline into reusable ETL components
+- Designed pipeline to be orchestration-ready (Airflow concept)
